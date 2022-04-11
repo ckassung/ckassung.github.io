@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-04-01
 inline: true
 ---
 
-A simple inline announcement.
+Die Informationen zu den <a href="{{ site.baseurl
+}}/teaching">Lehrveranstaltungen im Sommersemester 2022</a> jetzt
+eingestellt. 

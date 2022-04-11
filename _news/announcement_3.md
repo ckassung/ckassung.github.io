@@ -1,7 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-01-18
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+In einem <a href="https://zenodo.org/record/5874073" target="_blank">neuen
+Preprint</a> habe ich einen älteren Vortrag (2012) zu den Tieren im Filmkosmos
+von David Lynch veröffentlicht.
+
