@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: projekte
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-display_categories: [work, fun]
+description: Forschungs- und Ausstellungsprojekte.
+nav: false
+display_categories: [forschung, ausstellung]
 horizontal: false
 ---
 
