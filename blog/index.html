@@ -38,8 +38,8 @@ pagination:
         {% endif %}
       </h3>
       <p>{{ post.description }}</p>
-      <p class="post-meta"> {{read_time}} min read &nbsp; &middot; &nbsp;
-        {{ post.date | date: '%B %-d, %Y' }}
+      <p class="post-meta"> {{read_time}} Min &nbsp; &middot; &nbsp;
+        {{ post.date | date: '%-d. %-b. %Y' }}
       </p>
       <p class="post-tags">
         <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
