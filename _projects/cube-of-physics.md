@@ -82,3 +82,13 @@ des Projekts.
 <div class="caption">
     V.l.n.r.: Matthias Staudacher, Franziska Paul, Jürgen P. Rabe, Stefan Zieme, Christian Kassung
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/cop-10.jpg' | relative_url }}" alt=""             title="example image"/>
+    </div>
+</div>
+
+<div class="caption">
+    Entwurf für die Neugestaltung der Cube of Physics-Ausstellung, die im Rahmen der Langen Nacht der Wissenschaften 2022 am 2. Juli eröffnet wird. Der Entwurf wurde in Kooperation des Instituts für Physik und des Instituts für Kulturwissenschaft mit dem studio gid, Franziska Paul, erarbeitet.
+</div>
