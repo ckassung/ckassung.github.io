@@ -60,7 +60,7 @@ endcomment %}
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>{% endcomment %}
 
-SE Do. wöchentlich 14&ndash;18 Uhr
+SE Do. wöchentlich 14&ndash;18 Uhr in Raum 0.10, Georgenstraße 47, HU-Berlin
 
 ***
  
