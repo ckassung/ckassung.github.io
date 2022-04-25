@@ -98,7 +98,7 @@ Informationen im Moodle-Kurs 89454 mit dem Passwort »Ballade«.
 
 **Teilnahme:** Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 11. Mai, 16&ndash;18 Uhr c.t. vorgesehen.
+Semesters ist der 11.5.2022, 16&ndash;18 Uhr c.t. vorgesehen.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=193367&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
