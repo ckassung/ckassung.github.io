@@ -24,7 +24,7 @@ medialen Bedingungen von Wissen. Das Forschungsprofil ist somit nicht nur
 strikt interdisziplinär, sondern konzentriert sich vor allem auch auf die
 Randzonen, an denen neues Wissen entsteht, Störungen verhandelt, hegemoniale
 Ansprüche verfochten und Übersetzungen geleistet werden. Arbeitsschwerpunkte
-sind die Wissens- und Kulturgeschichte der der Physik, die Kulturtechniken der
+sind die Wissens- und Kulturgeschichte der Physik, die Kulturtechniken der
 Industrialisierung sowie die Geschichte und Praxis technischer Medien.
 
 Christian Kassung ist seit 2006 Professor für »Kulturtechniken und
