@@ -60,7 +60,7 @@ endcomment %}
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>{% endcomment %}
 
-SE Do. wöchentlich 14&ndash;18 Uhr
+SE Do. wöchentlich 14&ndash;18 Uhr, 0.10, GEO47
 
 ***
  
@@ -98,7 +98,7 @@ Informationen im Moodle-Kurs 89454 mit dem Passwort »Ballade«.
 
 **Teilnahme:** Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 27. April, 16&ndash;18 Uhr c.t. vorgesehen.
+Semesters ist der 11.5.2022, 16&ndash;18 Uhr c.t. vorgesehen.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=193367&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
