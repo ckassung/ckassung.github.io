@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: lehre 
-description: Lehrveranstaltungen im Wintersemester 2022/23. 
+title: lehre
+description: Lehrveranstaltungen im Wintersemester 2022/23.
 nav: true
 ---
 
@@ -55,7 +55,9 @@ Studien) durch eine Hausarbeit (4 LP) abgelegt werden.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=197428&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag</a></abbr> {% comment %}<abbr class="badge"><a
+target="_blank">Agnes-Eintrag 1</a></abbr> <abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=200028&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag 2</a></abbr>{% comment %}<abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=111604"
 target="_blank">Moodle-Kurs</a></abbr> <abbr class="badge"> <a
 href="{{ site.baseurl }}/blog/2021/essen-im-film">Vorlesungsplan</a></abbr>{%
@@ -65,10 +67,11 @@ endcomment %}
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>{% endcomment %}
 
-SE Di. wöchentlich 14&ndash;18 Uhr, 0.10, GEO47
+PS Di. wöchentlich 14&ndash;16 Uhr, 0.10, GEO47<br />
+CO Di. wöchentlich 16&ndash;18 Uhr, 0.10, GEO47
 
 ***
- 
+
 #### Bachelor-Kolloquium ####
 
 Das Bachelor-Kolloquium begleitet die Konzeption und das Verfassen der ersten
@@ -93,8 +96,8 @@ target="_blank">Moodle-Kurs</a></abbr>
 CO Do. wöchentlich 10&ndash;12 Uhr, 4.30, GEO 47
 
 ***
- 
-#### Forschungskolloquium #### 
+
+#### Forschungskolloquium ####
 
 Das Kolloquium richtet sich an Masterstudierende und Promovierende. Gemeinsam
 diskutiert werden mögliche Forschungsfragen und -strategien, Theorie- oder
