@@ -57,11 +57,10 @@ Studien) durch eine Hausarbeit (4 LP) abgelegt werden.
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=197428&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 1</a></abbr> <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=200028&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 2</a></abbr>{% comment %}<abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=111604"
+target="_blank">Agnes-Eintrag 2</a></abbr> <abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=116572"
 target="_blank">Moodle-Kurs</a></abbr> <abbr class="badge"> <a
-href="{{ site.baseurl }}/blog/2021/essen-im-film">Vorlesungsplan</a></abbr>{%
-endcomment %}
+href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>
 
 {% comment %}<abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
