@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wissenschaftliches schreiben
+title: Wissenschaftliches Schreiben
 date: 2022-04-07 15:01:00+0100
 description: Eine maximal kurze Einführung ins wissenschaftliche Schreiben.
 tags: writing
