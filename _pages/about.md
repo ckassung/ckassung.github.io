@@ -30,5 +30,7 @@ Industrialisierung sowie die Geschichte und Praxis technischer Medien.
 Christian Kassung ist seit 2006 Professor für »Kulturtechniken und
 Wissensgeschichte« an der Humboldt-Universität zu Berlin. Er ist Mitglied des
 »Hermann von Helmholtz-Zentrums für Kulturtechnik« und Principal Investigator
-am Exzellenzcluster »Matters of Activity«. Seit 2018 leitet er die Kultur-,
-Sozial- und Bildungswissenschaftliche Fakultät als Dekan.
+am Exzellenzcluster »Matters of Activity«. Von 2018 bis 2023 leitete er die
+Kultur-, Sozial- und Bildungswissenschaftliche Fakultät als Dekan. Im
+Sommersemester 2023 ist er Senior Fellow in der DFG-Kolleg-Forschungsgruppe
+»Imaginarien der Kraft« an der Universität Hamburg.
