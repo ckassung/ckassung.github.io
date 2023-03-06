@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Die Professur »Kulturtechniken und Wissensgeschichte« verbindet die Erforschung
-der Kulturtechniken als einem impliziten, Praktiken und Dinge miteinander
-verbindenden Wissen mit der Frage nach den historischen, materiellen und
+der Kulturtechniken als einem impliziten, sowohl Praktiken wie Dinge
+umfassenden Wissen mit der Frage nach den historischen, materiellen und
 medialen Bedingungen von Wissen. Das Forschungsprofil ist somit nicht nur
 strikt interdisziplinär, sondern konzentriert sich vor allem auch auf die
 Randzonen, an denen neues Wissen entsteht, Störungen verhandelt, hegemoniale
