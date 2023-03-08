@@ -5,6 +5,6 @@ description: Gesellschaftliche Innovation durch nichthegemoniale Wissensprodukti
 img: /assets/img/okkulte-moderne-01.jpg
 redirect: http://okkultemoderne.zimt.uni-siegen.de/
 category: forschung
-importance: 5
+importance: 6
 ---
 

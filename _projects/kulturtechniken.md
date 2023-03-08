@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kultur-techniken
+title: Kultur<wbr />techniken
 description: Aktuelle Projekte zur Kulturtechnikforschung
 img: /assets/img/kulturtechniken-01.jpg
 category: forschung
-importance: 1
+importance: 2
 ---
 #### Filtering
 

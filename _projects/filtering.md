@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Filtering Oranienburg
-description: Erforschung der Geschichte einer Stadt als radioaktive
-Industrielandschaft
+description: Erforschung der Geschichte einer Stadt als radioaktive Industrielandschaft
 img: /assets/img/filtering-oranienburg-01.jpg
 category: forschung
-importance: 2
+importance: 1
 ---
 
 <div class="row">
@@ -15,8 +14,7 @@ importance: 2
 </div>
 
 <div class="caption">
-    Glühstrumpf für Continental-Lampen &ndash; Kunstseide. BBWA U3/31
-Auergesellschaft/MSA Deutschland, Nr. F/14.
+    Glühstrumpf für Continental-Lampen &ndash; Kunstseide. BBWA U3/31 Auergesellschaft/MSA Deutschland, Nr. F/14.
 </div>
 
 Jedes Handeln, ob menschlicher oder nicht-menschlicher Akteure, setzt Wissen
@@ -50,8 +48,8 @@ Chemiefabriken der Gaslichtindustrie an. Aus den dort raffinierten
 Monazitsanden wurden unter anderem radioaktives Thorium und die Seltene Erde
 Cer gewonnen. Neben der Verwendung dieser Elemente für die Herstellung von
 Glühstrümpfen versuchten die Unternehmen, neue Verwendungszwecke für ihre
-Produkte zu finden. Wir bezeichnen dies als *Kommodifizierung von Seltenen
-Erden und Radioaktivität.*
+Produkte zu finden. Wir bezeichnen dies als <i>Kommodifizierung von Seltenen
+Erden und Radioaktivität.</i>
 
 Die in Oranienburg vorhandene Restradioaktivität ist auf diese industriellen
 Aktivitäten und ihre anschließende Zerstörung während eines alliierten
@@ -66,7 +64,7 @@ weiteren Stoffen spezialisierte sich allen voran die Auer AG auf die
 Herstellung von Schutzausrüstungen für toxische Umwelten. Sie produzierte
 Gasmasken, die während des Ersten Weltkriegs weit verbreitet waren, und sie
 versorgte Nazi-Deutschland mit Luftschutzausrüstung im Zweiten Weltkrieg. Wir
-bezeichnen dies als *Kommodifizierung toxischer Umwelten.* Oranienburg und
+bezeichnen dies als <i>Kommodifizierung toxischer Umwelten.</i> Oranienburg und
 seine Bevölkerung waren jedoch nie nur passive Zuschauer der eingesetzten
 Technologien und der mit ihnen verbundenen Hinterlassenschaften. Von den 1920er
 Jahren an bis in die Gegenwart zeigen Dokumente kontinuierliche Bemühungen, den
@@ -74,7 +72,7 @@ Zustand ihrer Umgebung zu hinterfragen, zu verändern und zu verbessern. Die
 toxische Landschaft Oranienburgs war immer auch ein umkämpfter Raum.
 
 »Filtering Oranienburg« verwendet deshalb umwelthistorische Ansätze, die sich
-in seiner *ersten Forschungsdimension* kritisch mit jenen Machtstrukturen
+in seiner <i>ersten Forschungsdimension</i> kritisch mit jenen Machtstrukturen
 befassen, die die Extraktion, Raffinierung und Entsorgung industrieller
 Materialien formierten. Diese Strukturen lassen sich aber nur dann vollständig
 erfassen, wenn das Projekt globale Perspektiven auf Materieströme mit einem
@@ -90,7 +88,7 @@ von Orten, Macht, Umwelt und Filtertechnologien befasst, zugleich aber diese
 Verflechtungen einerseits in zeitgemäße und andererseits auf andere Orte
 übertragbare Begrifflichkeiten bringt.
 
-Die *zweite Forschungsdimension* des Projekts nutzt Oranienburg als
+Die <i>zweite Forschungsdimension</i> des Projekts nutzt Oranienburg als
 Experimentierfeld zur Erforschung und Entwicklung von Ansätzen für kollektive
 Zukünfte in beschädigten Landschaften. Dazu gehört zunächst die Kartierung und
 Auseinandersetzung mit der soziopolitischen Landschaft des heutigen
@@ -122,5 +120,4 @@ historischer Filterprozesse verstanden werden. Deshalb wollen wir die
 Geschichte und Gegenwart Oranienburgs als genealogische Kaskade vergangener
 Filteroperationen verstehen und erfahrbar machen.
 
-
-Projektwebsite: <a href="https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/" target="_blank">https://www.culture.hu-berlin.de/de/forschung/projekte/hidden-kosmos/</a>
+Projektwebsite: <a href="https://www.matters-of-activity.de/en/posts/10256/filtering-oranienburg" target="_blank">https://www.matters-of-activity.de</a>

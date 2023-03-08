@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Analog-speicher
+title: Analog<wbr />speicher
 description: Auralisierung archäologischer Räume, 2012&ndash;2018
 img: /assets/img/analogspeicher-01.jpg
 category: forschung
-importance: 4
+importance: 5
 ---
 
 <div class="row">

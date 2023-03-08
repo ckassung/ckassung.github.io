@@ -4,7 +4,7 @@ title: Hidden Kosmos
 description: Reconstructing Alexander von Humboldt’s »Kosmos-Lectures«, 2014&ndash;2016
 img: /assets/img/hidden-kosmos-01.jpg
 category: forschung
-importance: 2
+importance: 3
 ---
 
 <div class="row">
