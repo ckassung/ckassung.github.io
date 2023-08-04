@@ -147,12 +147,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 {% comment %}<abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
 
-<<<<<<< HEAD
-
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
-=======
-SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47
->>>>>>> 3ba1d70 (Vortex 2)
 MA-Modul 3: Kulturen des Wissens
 
 ***
