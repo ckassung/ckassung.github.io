@@ -17,7 +17,8 @@ Beispiele aus der langen materiellen Kulturgeschichte erworben.
 
 *Teilnahme:* Der Besuch dieser Einführungsvorlesung setzt keine
 Studienleistungen voraus. Die Vorlesung findet als Präsenzveranstaltung statt
-und beginnt am 17.10.2023.
+und beginnt am 17.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen
+Moodle-Kurs mit dem Passwort »Praeludium« an.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
 erworben wie auch eine Modulabschlussprüfung im zugehörigen Begleitseminar
@@ -30,10 +31,10 @@ target="_blank">Agnes-Eintrag 1</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 2</a></abbr>
-{% comment %}<abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=116572"
-target="_blank">Moodle-Kurs</a></abbr> 
 <abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=121615"
+target="_blank">Moodle-Kurs</a></abbr> 
+{% comment %}<abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>
 {% endcomment %}
 
@@ -57,7 +58,9 @@ weiterführender Forschungsliteratur bereitgestellt.
 
 *Teilnahme:* Der Besuch dieses Begleitseminars setzt keine Studienleistungen
 voraus. Der parallele Besuch der Vorlesung wird stark empfohlen. Das Seminar
-findet als Präsenzveranstaltung statt und beginnt am 18.10.2023.
+findet als Präsenzveranstaltung statt und beginnt am 18.10.2023. Zur Teilnahme
+melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort »Praeludium«
+an.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
 erworben wie auch eine Modulabschlussprüfung durch eine Take-Home-Klausur (4
@@ -69,10 +72,10 @@ target="_blank">Agnes-Eintrag 1</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=211532&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 2</a></abbr>
-{% comment %}<abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=116572"
-target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=121615"
+target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}<abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
 
 {% comment %}<abbr class="badge"><a
@@ -93,7 +96,8 @@ Themenfindung, Themeneingrenzung und Ausarbeitung ihrer Bachelorarbeiten zu
 unterstützen und ein Forum für den Austausch bereitzustellen.
 
 *Teilnahme:* Das Kolloquium findet als Präsenzveranstaltung statt und beginnt
-am 19.10.2023.
+am 19.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
+mit dem Passwort »Impromtu« an.
 
 *Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3LP) erworben werden.
@@ -124,7 +128,8 @@ Anwendungsszenarien für die Kulturwissenschaft entwickeln lassen, soll im
 Seminar gemeinsam erarbeitet werden.
 
 *Teilnahme:* Das Seminar findet als Präsenzveranstaltung statt und beginnt
-am 20.10.2023.
+am 20.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
+mit dem Passwort »Etude« an.
 
 *Prüfungen:* Im Seminar kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3LP) erworben werden. Eine Modulabschlussprüfung ist in Form einer Hausarbeit
@@ -136,14 +141,18 @@ target="_blank">Agnes-Eintrag 1</a></abbr>
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=211679&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 2</a></abbr> 
-{% comment %}<abbr class="badge"><a
-href="https://moodle.hu-berlin.de/course/view.php?id=116572"
-target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
+href="https://moodle.hu-berlin.de/course/view.php?id=121616"
+target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}<abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
 
+<<<<<<< HEAD
 
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
+=======
+SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47
+>>>>>>> 3ba1d70 (Vortex 2)
 MA-Modul 3: Kulturen des Wissens
 
 ***

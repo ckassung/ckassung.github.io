@@ -41,7 +41,7 @@ beeinhaltet.
 
 Die drei Fundamentalkonstanten Gravitation $$G$$, die inverse
 Lichtgeschwindigkeit $$c^{-1}$$ und das Wirkungsquantum h spannen einen Würfel
-auf, an dessen Eckpunkten sich alle aktuellen Physiktheorien verorten lassen. 
+auf, an dessen Eckpunkten sich alle aktuellen Physiktheorien verorten lassen.
 
 Für die Installation im Institut für Physik verwandelt sich der Würfel in
 seinen dualen Körper, ein Oktaeder, welches sich im Foyer entfaltet und alle
