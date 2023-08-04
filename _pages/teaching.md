@@ -42,7 +42,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
-VL Di. wöchentlich 14&ndash;16 Uhr, 2091/92, UDL 6
+VL Di. wöchentlich 14&ndash;16 Uhr, 2091/92, UDL 6<br />
 BA-Modul 1: Texte - Bilder - Dinge
 
 ***
@@ -80,7 +80,7 @@ href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz
 target="_blank">Zoom-Link</a></abbr>{% endcomment %}
 
 
-SE Mi. wöchentlich 10&ndash;12 Uhr, 0.07, GEO 47
+SE Mi. wöchentlich 10&ndash;12 Uhr, 0.07, GEO 47<br />
 BA-Modul 1: Texte - Bilder - Dinge
 
 ***
@@ -105,7 +105,7 @@ target="_blank">Agnes-Eintrag</a></abbr> <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=92821"
 target="_blank">Moodle-Kurs</a></abbr>
 
-CO Mi. wöchentlich 14&ndash;16 Uhr, 4.30, GEO 47
+CO Mi. wöchentlich 14&ndash;16 Uhr, 4.30, GEO 47<br />
 BA-Modul 9: Abschlussmodul
 
 ***
@@ -143,7 +143,7 @@ target="_blank">Moodle-Kurs</a></abbr>
 href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
 
 
-SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47
+SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
 MA-Modul 3: Kulturen des Wissens
 
 ***

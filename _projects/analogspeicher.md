@@ -4,7 +4,7 @@ title: Analog<wbr />speicher
 description: Auralisierung archäologischer Räume, 2012&ndash;2018
 img: /assets/img/analogspeicher-01.jpg
 category: forschung
-importance: 5
+importance: 6
 ---
 
 <div class="row">
