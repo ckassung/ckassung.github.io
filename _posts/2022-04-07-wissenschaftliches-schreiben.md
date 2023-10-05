@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wissenschaftliches Schreiben
-date: 2022-04-07 15:01:00+0100
+date: 2023-10-04 15:01:00+0100
 description: Eine maximal kurze Einführung ins wissenschaftliche Schreiben.
 tags: writing
 categories: academic-practices
@@ -13,7 +13,11 @@ Fragestellung, der Forschungsliteratur und dem wissenschaftlichen
 Instrumentarium. Auf der Grundlage dieses Beziehungsgeflechts geht es darum,
 anhand einer Fragestellung Ideen zu entwickeln und Thesen zu formulieren, die
 Du dann argumentativ entfaltest und anhand Deines Gegenstands erörterst,
-belegst oder gegebenenfalls widerlegst. Es entsteht so ein in sich
+belegst oder gegebenenfalls widerlegst. Dabei solltest Du Dir zu jedem
+Zeitpunkt klar sein (und dies auch dem Leser transparent machen), mit welchen
+Begriffen Du arbeitest (*Arbeitsbegriffe* mit klarer Definition) und über welche
+Begriffe Du arbeitest (*Gegenstandsbegriffe* mit zu untersuchender, zu
+diskutierender oder zu problematisierender Bedeutung). Es entsteht so ein in sich
 geschlossener Text, in dem Du einen von Dir gewählter Gegenstand unter einer
 bestimmten Fragestellung mit einem kulturwissenschaftlichen, meist aus
 unterschiedlichen Wissenschaftsdisziplinen stammenden Instrumentarium
