@@ -34,9 +34,8 @@ target="_blank">Agnes-Eintrag 2</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr> 
-{% comment %}<abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>
-{% endcomment %}
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 
 {% comment %}<abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
@@ -44,7 +43,7 @@ target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
 
 VL Di. wöchentlich 14&ndash;16 Uhr, 2091/92, UDL 6<br />
-BA-Modul 1: Texte - Bilder - Dinge
+BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
 
 ***
 
@@ -75,8 +74,8 @@ target="_blank">Agnes-Eintrag 2</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr>
-{% comment %}<abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 
 {% comment %}<abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
@@ -84,7 +83,7 @@ target="_blank">Zoom-Link</a></abbr>{% endcomment %}
 
 
 SE Mi. wöchentlich 10&ndash;12 Uhr, 0.07, GEO 47<br />
-BA-Modul 1: Texte - Bilder - Dinge
+BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
 
 ***
 
@@ -144,8 +143,8 @@ target="_blank">Agnes-Eintrag 2</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121616"
 target="_blank">Moodle-Kurs</a></abbr>
-{% comment %}<abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2022/exooekologien">Seminarplan</a></abbr>{% endcomment %}
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2023/gaia-anwenden">Seminarplan</a></abbr>
 
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
 MA-Modul 3: Kulturen des Wissens
