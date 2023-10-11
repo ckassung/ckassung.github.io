@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2022-01-18
+date: 2023-10-11
 inline: true
 ---
 
-In einem <a href="https://zenodo.org/record/5874073" target="_blank">neuen
-Preprint</a> habe ich einen älteren Vortrag (2012) zu den Tieren im Filmkosmos
-von David Lynch veröffentlicht.
-
+Der Tagungsbericht zur diesjährigen zwanzigsten »Kultur und Informatik« in
+Lissabon ist <a href="{{ site.baseurl
+}}/blog/2023/lissabon">online</a>.

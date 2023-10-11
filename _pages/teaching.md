@@ -160,7 +160,7 @@ Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 23.10.2023 vorgesehen.
+Semesters ist der 30.10.2023 vorgesehen.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209797&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -168,5 +168,7 @@ target="_blank">Agnes-Eintrag</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=89454"
 target="_blank">Moodle-Kurs</a></abbr>
+<abbr class="badge"><a
+href="{{ site.baseurl }}/blog/2023/kolloquium">Kolloquiumsplan</a></abbr>
 
 CO Mo. 14tgl. 14&ndash;16 Uhr, 4.30, GEO 47
