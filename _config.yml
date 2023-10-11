@@ -246,6 +246,16 @@ scholar:
 
   query: "@*"
 
+# -----------------------------------------------------------------------------
+# Jekyll Link Attributes
+# -----------------------------------------------------------------------------
+
+# These are the defaults
+external_links:
+  enabled: true
+  rel: external nofollow noopener
+  target: _blank
+  exclude:
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
