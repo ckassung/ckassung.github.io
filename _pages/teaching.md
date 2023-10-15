@@ -18,12 +18,14 @@ Beispiele aus der langen materiellen Kulturgeschichte erworben.
 *Teilnahme:* Der Besuch dieser Einführungsvorlesung setzt keine
 Studienleistungen voraus. Die Vorlesung findet als Präsenzveranstaltung statt
 und beginnt am 17.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen
-Moodle-Kurs mit dem Passwort »Praeludium« an.
+Moodle-Kurs mit dem Passwort »Praeludium« an. Studierende anderer Universitäten
+oder aus dem ÜWP-Bereich, die über Agnes eine negative Teilnahmeinformation
+erhalten haben, können die Vorlesung trotzdem besuchen.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
 erworben wie auch eine Modulabschlussprüfung im zugehörigen Begleitseminar
 durch eine Take-Home-Klausur (4 LP) abgelegt werden. Im ÜWP-Bereich ist es
-möglich, durch Extraleistungen nach Absprache 3+2 LP zu erwerben.
+möglich, durch Extraleistungen nach individueller Absprache 3+2 LP zu erwerben.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
