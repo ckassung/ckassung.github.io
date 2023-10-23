@@ -23,9 +23,12 @@ oder aus dem ÜWP-Bereich, die über Agnes eine negative Teilnahmeinformation
 erhalten haben, können die Vorlesung trotzdem besuchen.
 
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
-erworben wie auch eine Modulabschlussprüfung im zugehörigen Begleitseminar
-durch eine Take-Home-Klausur (4 LP) abgelegt werden. Im ÜWP-Bereich ist es
-möglich, durch Extraleistungen nach individueller Absprache 3+2 LP zu erwerben.
+erworben und zusätzlich eine Modulabschlussprüfung durch eine Take-Home-Klausur
+(4 LP) abgelegt werden. Im ÜWP-Bereich ist es möglich, durch Extraleistungen
+weitere LP nach individueller Absprache (1 LP durch frei gewählte Zusatzlektüre
+mit einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder
+multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt
+jeweils nach den Vorlesungen oder innerhalb der Sprechstunde.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
