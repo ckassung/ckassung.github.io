@@ -30,6 +30,11 @@ mit einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder
 multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt
 jeweils nach den Vorlesungen oder innerhalb der Sprechstunde.
 
+*Prüfungszeiträume:* Der erste dreitägige Prüfungszeitraum für die
+Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Freitag den
+16.2.2024 um 14.00 Uhr. Der zweite Prüfungsraum geht von Dienstag den 9.4.2024
+bis Freitag den 12.4.2024 ebenfalls von 14.00 bis 14.00 Uhr.
+
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 1</a></abbr>
@@ -69,6 +74,11 @@ an.
 *Prüfungen:* Ein Teilnahmeschein kann durch regelmäßige Teilnahme (3 LP)
 erworben wie auch eine Modulabschlussprüfung durch eine Take-Home-Klausur (4
 LP) abgelegt werden.
+
+*Prüfungszeiträume:* Der erste dreitägige Prüfungszeitraum für die
+Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Freitag den
+16.2.2024 um 14.00 Uhr. Der zweite Prüfungsraum geht von Dienstag den 9.4.2024
+bis Freitag den 12.4.2024 ebenfalls von 14.00 bis 14.00 Uhr.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209791&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
@@ -138,6 +148,9 @@ mit dem Passwort »Etude« an.
 *Prüfungen:* Im Seminar kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3LP) erworben werden. Eine Modulabschlussprüfung ist in Form einer Hausarbeit
 (4 LP) möglich.
+
+*Prüfungszeiträume:*: Im ersten Prüfungszeitraum sind die Hausarbeiten bis zum
+28.3.2024 abzugeben, im zweiten Prüfungszeitraum bis zum 26.7.2024.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209792&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
