@@ -2,16 +2,16 @@
 <html lang="de">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://ckassung.github.io/" />    <!-- Metadata, OpenGraph and Schema.org -->
+  <head>    <!-- Metadata, OpenGraph and Schema.org -->
     
 
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Christian  Kassung | Page not found</title>
+    <title>Christian  Kassung | Akademisches Schreiben mit Zettrl</title>
     <meta name="author" content="Christian  Kassung" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="Installation und Verwendung von Zettrl als Zettelkasten." />
     <meta name="keywords" content="culture, history, knowledge" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚛️</text></svg>">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://ckassung.github.io/404.html">
+    <link rel="canonical" href="https://ckassung.github.io/blog/2022/zettlr/">
     
     <!-- Dark Mode -->
     
@@ -71,7 +71,7 @@
               </li>
               
               <!-- Blog -->
-              <li class="nav-item ">
+              <li class="nav-item active">
                 <a class="nav-link" href="/blog/">blog</a>
               </li>
 
@@ -106,20 +106,110 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <!-- page.html -->
-        <div class="post">
+      <!-- _layouts/post.html -->
 
-          <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
-          </header>
+<div class="post">
 
-          <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://ckassung.github.io/">here</a>.</p>
+  <header class="post-header">
+    <h1 class="post-title">Akademisches Schreiben mit Zettrl</h1>
+    <p class="post-meta">10. Nov. 2022</p>
+    <p class="post-tags">
+      <a href="/blog/2022"> <i class="fas fa-calendar fa-sm"></i> 2022 </a>
+        ·  
+        <a href="/blog/tag/academic-practices">
+          <i class="fas fa-hashtag fa-sm"></i> academic-practices</a>  
+          
+        ·  
+        <a href="/blog/category/writing">
+          <i class="fas fa-tag fa-sm"></i> writing</a>  
+          
 
-          </article>
+    </p>
+  </header>
 
-        </div>
+  <article class="post-content">
+    <p><a href="https://www.zettlr.com/" target="_blank" rel="noopener noreferrer">Zettlr</a> ist ein Open-Source-Programm, mit dem
+Texte im <a href="https://www.markdownguide.org/" target="_blank" rel="noopener noreferrer">Markdown</a>-Format geschrieben
+und in (fast) beliebige Ausgangsformate übersetzt werden können (im
+Hintergrund arbeitet dabei <a href="https://pandoc.org/" target="_blank" rel="noopener noreferrer">Pandoc</a>). Über das
+<a href="https://ctan.org/pkg/biblatex?lang=de" target="_blank" rel="noopener noreferrer">BibTeX</a>-Format können
+Literaturquellen verknüpft werden. Zettlr läßt sich auch als
+Zettelkasten-Programm verwenden. Es läßt sich damit extrem produktiv in
+den <a href="https://www.hendrik-erz.de/post/how-i-work-part-v-zettlr-and-academic-markdown" target="_blank" rel="noopener noreferrer">akademischen
+Workflow</a>
+einbetten und ist unabhängig vom verwendeten Betriebssystem.</p>
+
+<h4 id="installation">Installation</h4>
+
+<p>Die Zettlr-Installation erfolgt am einfachsten über die angebotenen
+<a href="https://www.zettlr.com/download" target="_blank" rel="noopener noreferrer">Installationspakete</a>. Um die
+Markdown-Dateien in andere Formate konvertieren zu können, muß Pandoc
+installiert werden. Dies geschieht direkt aus Zettlr heraus im Menu →
+Hilfe → Pandoc (bei OS X ist Pandoc schon mit an Bord). Für die
+Erzeugung von PDFs wird noch eine LaTeX-Installation benötigt, auch
+diese kann direkt aus Zettlr heraus im selben Menupunkt angestoßen
+werden.</p>
+
+<h4 id="literaturverwaltung">Literaturverwaltung</h4>
+
+<p>Die Verwaltung der Literaturdaten erfolgt mithilfe des
+Open-Source-Programms <a href="https://www.zotero.org/" target="_blank" rel="noopener noreferrer">Zotero</a>. Als eines von
+wenigen Programmen am Markt arbeitet Zotero unabhängig von Verlagen und
+ist für alle Betriebssysteme verfügbar. Nach dem
+<a href="https://www.zotero.org/download/" target="_blank" rel="noopener noreferrer">Download</a> und der Installation von
+Zotero sollte noch das Plugin <a href="https://retorque.re/zotero-better-bibtex/" target="_blank" rel="noopener noreferrer">Better
+BibTex</a> installiert werden
+(die xpi-Datei herunterladen, in Zotero Werkzeuge → Add-ons klicken,
+dann per Werkzeugrad Install Add-on From File aufrufen und Datei
+installieren). Das Plugin erzeugt dann nach einem Neustart von Zotero
+<em>keys</em>, welche die Verbindung zwischen Zettel und Literaturangabe
+herstellen. Damit diese aus dem Nachnamen des oder der Autoren und der
+Jahreszahl des Texts bestehen, gibt man in Zotero unter Einstellungen →
+Better BibTex im Feld Citation Key Format die etwas kryptische Angabe</p>
+
+<p><code class="language-plaintext highlighter-rouge">authEtal2(sep="-").lower+":"+year+postfix("%(a)s")</code></p>
+
+<p>ein. Jetzt muß man noch dafür sorgen, daß Zotero alle Literaturangaben
+aktualisiert in eine Datei schreibt, auf die dann auch Zettlr zugreift.
+Dazu unter Datei → Bibliothek exportieren das Format Better CSL JSON
+auswählen und im anschließenden Dialog Halte aktuell auswählen und einen
+geeigneten Speicherort für die Datei zotero.json angeben.</p>
+
+<p>Nun muß natürlich auch Zettlr auf diese Datei zugreifen. Hierzu unter
+Zettlr → Einstellungen → Zitieren die eben angelegte Zitationsdatenbank
+zotero.json auswählen. Immer dann, wenn in Zettlr ein @-Zeichen getippt
+wird, lädt das Programm die Literaturtitel, die per Autocomplete
+gefiltert und ausgewählt werden können. Alle in einem Zettel auf diese
+Weise verlinkten Literatureinträge werden beim Export automatisch
+vervollständigt und und als bibliographische Angabe an den Schluß des
+Textes gestellt.</p>
+
+<h4 id="zettelkasten">Zettelkasten</h4>
+
+<p>Die Zettelkastenmethodik ist im akademischen Bereich v.a. durch Niklas
+Luhmann bekannt geworden. Sie basiert darauf, daß Zitate und Ideen erst
+einmal aufschreibt, um sie dann für das spätere Verfassen längerer Texte
+aktivieren zu können.</p>
+
+<p>Um schönere Verweise zu erhalten, empfiehlt es sich, unter Zettlr →
+Assets Manager → Benutzerdefiniertes CSS folgende Anweisungen abzulegen:</p>
+
+<figure class="highlight"><pre><code class="language-css" data-lang="css">        <span class="nf">#editor</span> <span class="nc">.cm-zkn-link</span><span class="nd">:not</span><span class="o">(</span><span class="nd">:hover</span><span class="o">),</span>
+        <span class="nt">body</span><span class="nc">.dark</span> <span class="nf">#editor</span> <span class="nc">.cm-zkn-link</span><span class="nd">:not</span><span class="o">(</span><span class="nd">:hover</span><span class="o">)</span> <span class="p">{</span>
+            <span class="nl">font-size</span><span class="p">:</span> <span class="m">.01em</span><span class="p">;</span>
+            <span class="nl">visibility</span><span class="p">:</span> <span class="nb">hidden</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="nf">#editor</span> <span class="nc">.cm-zkn-link</span><span class="nd">:not</span><span class="o">(</span><span class="nd">:hover</span><span class="o">)</span><span class="nd">::after</span><span class="o">,</span>
+        <span class="nt">body</span><span class="nc">.dark</span> <span class="nf">#editor</span> <span class="nc">.cm-zkn-link</span><span class="nd">:not</span><span class="o">(</span><span class="nd">:hover</span><span class="o">)</span><span class="nd">::after</span> <span class="p">{</span>
+            <span class="nl">font-size</span><span class="p">:</span> <span class="m">100em</span><span class="p">;</span>
+            <span class="nl">content</span><span class="p">:</span> <span class="s2">'↗'</span><span class="p">;</span>
+            <span class="nl">visibility</span><span class="p">:</span> <span class="nb">visible</span><span class="p">;</span>
+        <span class="p">}</span></code></pre></figure>
+
+
+  </article>
+
+</div>
 
     </div>
 
