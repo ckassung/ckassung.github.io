@@ -28,7 +28,11 @@ erworben und zusätzlich eine Modulabschlussprüfung durch eine Take-Home-Klausu
 weitere LP nach individueller Absprache (1 LP durch frei gewählte Zusatzlektüre
 mit einseitigem Kurzbericht, mehr LP in Form einer schriftlichen oder
 multimedialen Arbeit entsprechend Aufwand) zu erwerben. Die Absprache erfolgt
-jeweils nach den Vorlesungen oder innerhalb der Sprechstunde.
+jeweils nach den Vorlesungen oder innerhalb der Sprechstunde. Studierende,
+deren ÜWP-Veranstaltung nicht in Agnes eingetragen ist, melden sich bitte mit
+ihrer Matrikelnummer bei Frau Gaedicke
+(christiane.gaedicke[at]rz.hu-berlin.de), damit diese in Agnes nachgetragen
+werden kann.
 
 *Prüfungszeiträume:* Der erste dreitägige Prüfungszeitraum für die
 Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Freitag den
