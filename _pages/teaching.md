@@ -34,10 +34,14 @@ ihrer Matrikelnummer bei Frau Gaedicke
 (christiane.gaedicke[at]rz.hu-berlin.de), damit diese in Agnes nachgetragen
 werden kann.
 
-*Prüfungszeiträume:* Der erste dreitägige Prüfungszeitraum für die
-Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Freitag den
-16.2.2024 um 14.00 Uhr. Der zweite Prüfungsraum geht von Dienstag den 9.4.2024
-bis Freitag den 12.4.2024 ebenfalls von 14.00 bis 14.00 Uhr.
+*Prüfungszeiträume:* Der erste einwöchige Prüfungszeitraum für die
+Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Dienstag den
+20.2.2024 um 14.00 Uhr. Der zweite Prüfungszeitraum geht von Dienstag den
+9.4.2024 bis Dienstag den 16.4.2024 ebenfalls von 14.00 bis 14.00 Uhr. Alle
+zusätzlichen Informationen werden vom
+<a href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruefungsbueroarchkuwigender"
+target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
+bereitgestellt.
 
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
