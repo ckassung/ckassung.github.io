@@ -2,22 +2,27 @@
 layout: page
 permalink: /teaching/
 title: lehre
-description: Lehrveranstaltungen im Wintersemester 2023/24.
+description: Lehrveranstaltungen im Wintersemester 2024/25.
 nav: true
 ---
 
-#### Kulturgeschichte der Dinge (VL) ####
+#### Einführung in die Materielle Kulturforschung (VL) ####
 
-Weniger über eine Eingrenzung ihres Gegenstandfeldes als über Methoden und
-Theorien des Zugriffs hierauf definiert sich Kulturwissenschaft als
-universitäre Disziplin. Ziel dieser Vorlesung ist es, in die wichtigsten
-Operationen der materiellen Kulturanalyse einzuführen. Die zur Untersuchung der
-›Dinge‹ notwendigen Kenntnisse und Fähigkeiten werden anhand ausgewählter
-Beispiele aus der langen materiellen Kulturgeschichte erworben.
+Materielle Kulturforschung als historische Disziplin umfasst drei Elemente:
+Fakten, Quellen und Strukturen. Also erstens ein verlässliches Wissensfundament
+an Fakten, von dem ausgehend neue Dinge, Fragen und Probleme erschlossen werden
+können. Das Wissen um Fakten verhindert willkürliche Deutungen und
+Interpretationen. Zweitens ist die Kenntnis kanonischer Quellentexte der
+Kulturgeschichte und die Fähigkeit zu deren Analyse wichtig. Denn erst dadurch
+wird historischen Akteuren ein eigener Stellenwert zugeordnet, dessen Differenz
+zur Gegenwart bestehen bleibt und als solcher produktiv werden kann. Und
+drittens müssen Strukturen, Ideen und Mentalitäten verhandelt werden. Diese
+ermöglichen es, das Vergangene mit Blick auf kulturelle Gegenwarten zu
+untersuchen bzw. genealogische Erklärungen für Gegenwärtiges zu finden.
 
 *Teilnahme:* Der Besuch dieser Einführungsvorlesung setzt keine
 Studienleistungen voraus. Die Vorlesung findet als Präsenzveranstaltung statt
-und beginnt am 17.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen
+und beginnt am 15.10.2024. Zur Teilnahme melden Sie sich bitte im zugehörigen
 Moodle-Kurs mit dem Passwort »Praeludium« an. Studierende anderer Universitäten
 oder aus dem ÜWP-Bereich, die über Agnes eine negative Teilnahmeinformation
 erhalten haben, können die Vorlesung trotzdem besuchen.
@@ -34,15 +39,7 @@ ihrer Matrikelnummer bei Frau Gaedicke
 (christiane.gaedicke[at]rz.hu-berlin.de), damit diese in Agnes nachgetragen
 werden kann.
 
-*Prüfungszeiträume:* Der erste einwöchige Prüfungszeitraum für die
-Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Dienstag den
-20.2.2024 um 14.00 Uhr. Der zweite Prüfungszeitraum geht von Dienstag den
-9.4.2024 bis Dienstag den 16.4.2024 ebenfalls von 14.00 bis 14.00 Uhr. Alle
-zusätzlichen Informationen werden vom
-<a href="https://fakultaeten.hu-berlin.de/de/ksb/studiumlehre/pruefungsbueros/pruefungsbueroarchkuwigender"
-target="_blank">Prüfungsbüro Archäologie, Kulturwissenschaft, Genderstudies</a>
-bereitgestellt.
-
+{% comment %}
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 1</a></abbr>
@@ -54,8 +51,7 @@ href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr> 
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
-
-{% comment %}<abbr class="badge"><a
+<abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
 {% endcomment %}
@@ -65,17 +61,18 @@ BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
 
 ***
 
-#### Begleitseminar zur Vorlesung »Kulturgeschichte der Dinge« (SE) ####
+#### Begleitseminar zur Vorlesung »Einführung in die Materielle Kulturforschung« (SE) ####
 
 Ziel des Begleitseminars ist die Vertiefung der Inhalte und Fragen aus der
-Vorlesung. Hierzu setzen wir uns in gemeinsamen Lektüren und Diskussionen mit
-den zentralen Texten und Materialien der Vorlesung auseinander. Zu Beginn des
-Semesters wird ein Reader mit ausgewählten Texten und eine Liste mit
-weiterführender Forschungsliteratur bereitgestellt.
+Vorlesung. Im Zentrum jeder Sitzung steht die verpflichtende Lektüre und
+gemeinsame Diskussion eines Basistextes. Hiervon ausgehend können eigene
+Fragestellungen und spezifische Themen vertieft werden. Zu Beginn des Semesters
+wird ein Reader mit ausgewählten Texten und eine Liste mit weiterführender
+Forschungsliteratur bereitgestellt.
 
 *Teilnahme:* Der Besuch dieses Begleitseminars setzt keine Studienleistungen
 voraus. Der parallele Besuch der Vorlesung wird stark empfohlen. Das Seminar
-findet als Präsenzveranstaltung statt und beginnt am 18.10.2023. Zur Teilnahme
+findet als Präsenzveranstaltung statt und beginnt am 16.10.2023. Zur Teilnahme
 melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort »Praeludium«
 an.
 
@@ -83,11 +80,7 @@ an.
 erworben wie auch eine Modulabschlussprüfung durch eine Take-Home-Klausur (4
 LP) abgelegt werden.
 
-*Prüfungszeiträume:* Der erste dreitägige Prüfungszeitraum für die
-Take-Home-Klausur geht von Dienstag den 13.2.2024 um 14.00 Uhr bis Freitag den
-16.2.2024 um 14.00 Uhr. Der zweite Prüfungsraum geht von Dienstag den 9.4.2024
-bis Freitag den 12.4.2024 ebenfalls von 14.00 bis 14.00 Uhr.
-
+{% comment %}
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209791&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 1</a></abbr>
@@ -99,11 +92,10 @@ href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
-
-{% comment %}<abbr class="badge"><a
+<abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
-target="_blank">Zoom-Link</a></abbr>{% endcomment %}
-
+target="_blank">Zoom-Link</a></abbr>
+{% endcomment %}
 
 SE Mi. wöchentlich 10&ndash;12 Uhr, 0.07, GEO 47<br />
 BA-Modul 1: Texte &ndash; Bilder &ndash; Dinge
@@ -118,48 +110,49 @@ Themenfindung, Themeneingrenzung und Ausarbeitung ihrer Bachelorarbeiten zu
 unterstützen und ein Forum für den Austausch bereitzustellen.
 
 *Teilnahme:* Das Kolloquium findet als Präsenzveranstaltung statt und beginnt
-am 19.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
+am 16.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
 mit dem Passwort »Impromtu« an.
 
 *Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3LP) erworben werden.
 
-
+{% comment %}
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209792&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr> <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=92821"
 target="_blank">Moodle-Kurs</a></abbr>
+{% endcomment %}
 
 CO Mi. wöchentlich 14&ndash;16 Uhr, 4.30, GEO 47<br />
 BA-Modul 9: Abschlussmodul
 
 ***
 
-#### Gaia anwenden (SE) ####
+#### James Bond -- Ein Nachruf auf die Modern (SE) ####
 
-In diesem Seminar werden wir uns mit der Frage der Anwendbarkeit der
-Gaia-Theorie von Lovelock/Margulis für die Kulturanalyse beschäftigen. Nachdem
-die Gaia-Hypothese zwischen 1969 und 1977 weitestgehend ignoriert wurde, kam es
-nach einer kurzen Kritikphase aufgrund ihrer Unvereinbarkeit mit der
-Evolutionsbiologie v.a. auch im Kontext der Anthropozän-Debatten zu einer
-prominenten Reaktivierung u.a. durch Bruno Latour. »Gaia« fungiert dabei
-geradezu als Metamodell für das 21. Jahrhundert und ist insofern ein Symptom
-aktueller globaler Herausforderungen. Inwiefern sich hieraus auch konkrete
-Anwendungsszenarien für die Kulturwissenschaft entwickeln lassen, soll im
-Seminar gemeinsam erarbeitet werden.
+Das James Bond-Narrativ gehört zum Kernbestand filmischer Entwürfe einer
+europäischen Moderne (Dipper). Zwischen 1962 und 2021 inszenieren die 25
+Kinofilme unterschiedlich Modernitätskozepte, die Antworten auf das Bewusstsein
+ihrer eigenen kontingenten Historizität (Landwehr) und zugleich
+Transzendenzressource (Hänseroth) geben. Im Verlauf der permanenten
+Aktualisierung dieser Antworten tritt aber auch deren Historizität zu Tage
+(Koselleck): James Bond veraltet, löst sich immer wieder selbst ab und wird in
+Drehbüchern und Regie beständig rekonfigiert (Belasco). Am Beispiel des James
+Bond-Narrativs eröffnet das Seminar die Möglichkeit, Fortschritt als eine
+historische Variable zunehmend problematischerer Vergangenheiten zu
+reflektieren (Beck, Luhmann), während vormals verbindliche Zukunftsnarrative im
+Laufe der Zeit ihre Bindungskraft verlieren (Lyotard).
 
-*Teilnahme:* Das Seminar findet als Präsenzveranstaltung statt und beginnt
-am 20.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
-mit dem Passwort »Etude« an.
+*Teilnahme:* Das Seminar findet als Präsenzveranstaltung statt und beginnt am
+17.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit
+dem Passwort »Etude« an.
 
-*Prüfungen:* Im Seminar kann ein Teilnahmeschein durch regelmäßige Teilnahme
-(3LP) erworben werden. Eine Modulabschlussprüfung ist in Form einer Hausarbeit
-(4 LP) möglich.
+*Prüfungen:* Im Seminar kann ein Teilnahmeschein durch regelmäßige Teilnahme (3
+LP) erworben werden. Eine Modulabschlussprüfung ist in Form einer Hausarbeit (4
+LP) möglich.
 
-*Prüfungszeiträume:*: Im ersten Prüfungszeitraum sind die Hausarbeiten bis zum
-28.3.2024 abzugeben, im zweiten Prüfungszeitraum bis zum 26.7.2024.
-
+{% comment %}
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209792&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag 1</a></abbr>
@@ -171,6 +164,7 @@ href="https://moodle.hu-berlin.de/course/view.php?id=121616"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2023/gaia-anwenden">Seminarplan</a></abbr>
+{% endcomment %}
 
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
 MA-Modul 3: Kulturen des Wissens
@@ -186,8 +180,9 @@ Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 30.10.2023 vorgesehen.
+Semesters ist der 21.10.2023 vorgesehen.
 
+{% comment %}
 <abbr class="badge"><a
 href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209797&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
@@ -196,5 +191,6 @@ href="https://moodle.hu-berlin.de/course/view.php?id=89454"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2023/kolloquium">Kolloquiumsplan</a></abbr>
+{% endcomment %}
 
 CO Mo. 14tgl. 14&ndash;16 Uhr, 4.30, GEO 47
