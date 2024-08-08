@@ -39,18 +39,18 @@ ihrer Matrikelnummer bei Frau Gaedicke
 (christiane.gaedicke[at]rz.hu-berlin.de), damit diese in Agnes nachgetragen
 werden kann.
 
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223367&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224794&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 {% comment %}
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 1</a></abbr>
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209790&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 2</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr> 
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
+href="{{ site.baseurl }}/blog/2024/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 <abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
@@ -72,7 +72,7 @@ Forschungsliteratur bereitgestellt.
 
 *Teilnahme:* Der Besuch dieses Begleitseminars setzt keine Studienleistungen
 voraus. Der parallele Besuch der Vorlesung wird stark empfohlen. Das Seminar
-findet als Präsenzveranstaltung statt und beginnt am 16.10.2023. Zur Teilnahme
+findet als Präsenzveranstaltung statt und beginnt am 16.10.2024. Zur Teilnahme
 melden Sie sich bitte im zugehörigen Moodle-Kurs mit dem Passwort »Praeludium«
 an.
 
@@ -80,18 +80,18 @@ an.
 erworben wie auch eine Modulabschlussprüfung durch eine Take-Home-Klausur (4
 LP) abgelegt werden.
 
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223368&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" 
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224795&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung" 
+target="_blank">Agnes-Eintrag ÜWP</a></abbr>
 {% comment %}
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209791&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 1</a></abbr>
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=211532&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 2</a></abbr>
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121615"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2023/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
+href="{{ site.baseurl }}/blog/2024/kulturgeschichte-der-dinge">Vorlesungsplan</a></abbr>
 <abbr class="badge"><a
 href="https://hu-berlin.zoom.us/j/67471623130?pwd=RFE3REt5a2FvWFB2MnFCS0lJamVwdz09"
 target="_blank">Zoom-Link</a></abbr>
@@ -110,16 +110,17 @@ Themenfindung, Themeneingrenzung und Ausarbeitung ihrer Bachelorarbeiten zu
 unterstützen und ein Forum für den Austausch bereitzustellen.
 
 *Teilnahme:* Das Kolloquium findet als Präsenzveranstaltung statt und beginnt
-am 16.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
+am 16.10.2024. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs
 mit dem Passwort »Impromtu« an.
 
 *Prüfungen:* Im Kolloquium kann ein Teilnahmeschein durch regelmäßige Teilnahme
 (3LP) erworben werden.
 
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223373&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr> 
 {% comment %}
 <abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209792&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag</a></abbr> <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=92821"
 target="_blank">Moodle-Kurs</a></abbr>
 {% endcomment %}
@@ -145,25 +146,25 @@ reflektieren (Beck, Luhmann), während vormals verbindliche Zukunftsnarrative im
 Laufe der Zeit ihre Bindungskraft verlieren (Lyotard).
 
 *Teilnahme:* Das Seminar findet als Präsenzveranstaltung statt und beginnt am
-17.10.2023. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit
+17.10.2024. Zur Teilnahme melden Sie sich bitte im zugehörigen Moodle-Kurs mit
 dem Passwort »Etude« an.
 
 *Prüfungen:* Im Seminar kann ein Teilnahmeschein durch regelmäßige Teilnahme (3
 LP) erworben werden. Eine Modulabschlussprüfung ist in Form einer Hausarbeit (4
 LP) möglich.
 
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223369&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag</a></abbr>
+<abbr class="badge"><a
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=224812&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+target="_blank">Agnes-Eintrag ÜWP</a></abbr> 
 {% comment %}
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209792&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 1</a></abbr>
-<abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=211679&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
-target="_blank">Agnes-Eintrag 2</a></abbr> 
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=121616"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2023/gaia-anwenden">Seminarplan</a></abbr>
+href="{{ site.baseurl }}/blog/2024/gaia-anwenden">Seminarplan</a></abbr>
 {% endcomment %}
 
 SE Do. wöchentlich 12&ndash;14 Uhr, 0.07, GEO 47<br />
@@ -180,17 +181,17 @@ Arbeiten oder auch wichtige Grundlagenliteratur.
 
 *Teilnahme:* Der Besuch des Kolloquiums ist nur nach persönlicher Anmeldung
 möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
-Semesters ist der 21.10.2023 vorgesehen.
+Semesters ist der 21.10.2024 vorgesehen.
 
-{% comment %}
 <abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=209797&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223371&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
+{% comment %}
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=89454"
 target="_blank">Moodle-Kurs</a></abbr>
 <abbr class="badge"><a
-href="{{ site.baseurl }}/blog/2023/kolloquium">Kolloquiumsplan</a></abbr>
+href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
 
 CO Mo. 14tgl. 14&ndash;16 Uhr, 4.30, GEO 47
