@@ -117,12 +117,12 @@ mit dem Passwort »Impromtu« an.
 (3LP) erworben werden.
 
 <abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223373&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223371&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr> 
-{% comment %}
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=92821"
 target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}
 {% endcomment %}
 
 CO Mi. wöchentlich 14&ndash;16 Uhr, 4.30, GEO 47<br />
@@ -184,12 +184,12 @@ möglich. Als Termin für die erste Sitzung zur gemeinsamen Planung des weiteren
 Semesters ist der 21.10.2024 vorgesehen.
 
 <abbr class="badge"><a
-href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223371&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
+href="https://agnes.hu-berlin.de/lupo/rds?state=verpublish&status=init&vmfile=no&publishid=223373&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung"
 target="_blank">Agnes-Eintrag</a></abbr>
-{% comment %}
 <abbr class="badge"><a
 href="https://moodle.hu-berlin.de/course/view.php?id=89454"
 target="_blank">Moodle-Kurs</a></abbr>
+{% comment %}
 <abbr class="badge"><a
 href="{{ site.baseurl }}/blog/2024/kolloquium">Kolloquiumsplan</a></abbr>
 {% endcomment %}
